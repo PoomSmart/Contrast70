@@ -1,0 +1,9 @@
+Name: Contrast70
+Package: org.thebigboss.contrast70
+Author: PoomSmart
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), firmware (<< 7.1), mobilesubstrate
+Section: Tweaks
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS 7.1's UI contrast handling for 7.0
